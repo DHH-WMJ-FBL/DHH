@@ -1,5 +1,6 @@
 #pragma once
 #include "ChessMan.h"
+#include <QDebug>
 
 class Cannon : public ChessMan {
     Q_OBJECT
